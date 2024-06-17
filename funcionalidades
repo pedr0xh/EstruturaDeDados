@@ -1,0 +1,21 @@
+package ArvoreEx;
+
+public class funcionalidades {
+
+	public void menu () {
+	
+		System.out.println("+-+-+-+-+-+-+-+-+-+-+-+-++-+");
+		System.out.println("|     Escolha uma opção:   |");
+		System.out.println("+-+-+-+-+-+-+-+-+-+-+-+-+--+");
+		System.out.println("| 1 - Cadastrar            |");
+		System.out.println("| 2 - Listar               |");
+		System.out.println("| 3 - Listar por altura    |");
+		System.out.println("|     decrescente          |");
+		System.out.println("| 4 - Remover              |");
+		System.out.println("| 5 - Pesquisar por apelido|");
+		System.out.println("| 6 - Sair                 |");
+		System.out.println("+-+-+-+-+-+-+-+-+-+-+-+-+--+");
+
+
+	}
+}
